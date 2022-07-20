@@ -1,2 +1,1 @@
-# CV
-Hang's CV
+# Hang's CV
